@@ -68,5 +68,5 @@ job-application-tracker/
 └── scripts/              # Utility scripts
     └── seed.ts           # Database seeding
 ```
-
-
+## Deployed Link
+ Open [Link](https://job-application-portal-nextjs.vercel.app) in browser.
